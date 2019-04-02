@@ -4,16 +4,16 @@
 
 # Site
 title: 星域随想
-subtitle: 这世界什么都有，只要你去用心感受
+subtitle: 这世界什么都有，只要你用心感受
 description: 
 keywords:
-author: 周昊
+author: 星域随想
 language: zh-Hans
 timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://vzhouhao.github.io
+url: http://sf-think.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -87,5 +87,5 @@ limit: 20
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/vzhouhao/vzhouhao.github.io.git
+  repo: https://github.com/sf-think/sf-think.github.io.git
   branch: master
